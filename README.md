@@ -12,6 +12,6 @@ Lua Script -> Luau Bytecode -> Luau Script -> Decode from VM -> Execute into Rob
 
 Each symbol or letter gets converted into luau bytecode (encoded) then VM decodes it.
 
-# LuaU-Implementation
+# LuaU-Notes
 
-no
+`00` -> empty when from luau to conversion.
